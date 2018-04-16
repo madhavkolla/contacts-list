@@ -7,7 +7,7 @@ class Header extends Component {
       <Navbar>
         <Navbar.Header>
           <Navbar.Brand>
-            Contact Manager
+            Contacts List
           </Navbar.Brand>
         </Navbar.Header>
       </Navbar>
