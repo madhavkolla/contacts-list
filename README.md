@@ -1,9 +1,6 @@
 
 ## Contact-List
 
-## Getting Started
-
-
 
 ### Installing
 
