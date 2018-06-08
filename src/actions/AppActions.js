@@ -20,6 +20,7 @@ export default {
       });
   },
 
+  
   saveContact: (contact) => {
     ContactsAPI
       .saveContact('https://jsonplaceholder.typicode.com/users', contact)
